@@ -1,4 +1,4 @@
-#React Tetris Game
+# React Tetris Game
 
 
 Have fun! ;)
