@@ -40,7 +40,7 @@ export const TETROMINOS = {
     S: {
         shape: [
             [0, 'S', 'S'],
-            ['S', 'J', 0],
+            ['S', 'S', 0],
             [0, 0, 0],
         ],
         color: '48, 211, 56',
