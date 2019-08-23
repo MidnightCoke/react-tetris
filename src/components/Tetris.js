@@ -8,8 +8,7 @@ import StartButton from './StartButton';
 import {StyledTetrisWrapper, StyledTetris} from './styles/StyledTetris';
 
 const Tetris = () => {
-
-
+    console.log(createStage())
     return (
         <StyledTetrisWrapper>
             <StyledTetris>
